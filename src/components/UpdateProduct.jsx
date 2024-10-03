@@ -173,7 +173,7 @@ const UpdateProduct = () => {
               <option value="headphone">Headphone</option>
               <option value="mobile">Mobile</option>
               <option value="electronics">Electronics</option>
-              <option value="toys">Toys</option>
+              <option value="toys">Art</option>
               <option value="fashion">Fashion</option>
             </select>
           </div>
